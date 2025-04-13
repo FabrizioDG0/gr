@@ -53,3 +53,4 @@ export default function App() {
     </main>
   );
 }
+npm install
